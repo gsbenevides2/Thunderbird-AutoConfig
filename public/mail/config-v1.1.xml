@@ -4,14 +4,14 @@
     <displayName>gui.dev.br</displayName>
     <displayShortName>gui.dev.br</displayShortName>
     <incomingServer type="imap">
-      <hostname>oracle.gui.dev.br</hostname>
+      <hostname>selfhost.gui.dev.br</hostname>
       <port>143</port>
       <socketType>STARTTLS</socketType>
       <authentication>password-cleartext</authentication>
       <username>%EMAILADDRESS%</username>
     </incomingServer>
 	<outgoingServer type="smtp">
-      <hostname>oracle.gui.dev.br</hostname>
+      <hostname>selfhost.gui.dev.br</hostname>
       <port>587</port>
       <socketType>STARTTLS</socketType>
       <authentication>password-cleartext</authentication>
